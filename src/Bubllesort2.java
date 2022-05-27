@@ -16,7 +16,6 @@ public class Bubllesort2
                 }
             }
         }
-        System.out.println("\n\nBilangan Terurutnya adalah :");
         for(int i=0;i<jumlah; i++)
         System.out.print(dataKe[i] +" ");
         System.out.println("");
